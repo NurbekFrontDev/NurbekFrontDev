@@ -1,14 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1822267259728066458/A315B26714ED4AD0386ED8A58D3BFB5D1038F8C9/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"  />
 </div>
 
 ###
 
 <h1 align="center">Just Nurbek. Just code. No limits😎</h1>
 
-## 👩‍💻  Aboute Me
+<h2>👩‍💻  Aboute Me</h2>
 
 ### <img width="25" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated hand"> Hey there! I'm Nurbek
 
@@ -20,13 +20,13 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
 
 ⭐ **Check out my projects below!**  
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurbekFrontDev/NurbekFrontDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurbekFrontDev/NurbekFrontDev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NurbekFrontDev/NurbekFrontDev/output/github-snake.svg" />
+</picture>
 
-###
-
-<h2 align="left">🛠 Технологии:</h2>
+<h2 align="left">🛠 Technologies:</h2>
 
 ###
 
@@ -41,7 +41,16 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h2>Tools & Software:</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="36" alt="VS Code" />
+<img width="12" />
+<img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="36" alt="git" />
+<img width="12" />
+<img src="https://companieslogo.com/img/orig/github.D-42395240.png?t=1720244494" height="36" alt="github" />
+<img width="12" />
+<img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" height="36" alt="github" />
+
+<h2 align="left">📈 My statistics:</h2>
 
 ###
 
@@ -52,8 +61,8 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurbekFrontDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NurbekFrontDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurbekFrontDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NurbekFrontDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
