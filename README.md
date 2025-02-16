@@ -42,13 +42,15 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
 ###
 
 <h2>Tools & Software:</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="36" alt="VS Code" />
-<img width="12" />
-<img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="36" alt="git" />
-<img width="12" />
-<img src="https://companieslogo.com/img/orig/github.D-42395240.png?t=1720244494" height="36" alt="github" />
-<img width="12" />
-<img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" height="36" alt="github" />
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="36" alt="VS Code" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="36" alt="git" />
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/github.D-42395240.png?t=1720244494" height="36" alt="github" />
+  <img width="12" />
+  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" height="36" alt="github" />
+</div>
 
 <h2 align="left">📈 My statistics:</h2>
 
