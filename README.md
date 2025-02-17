@@ -26,6 +26,24 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
   <img alt="github-snake" src="https://raw.githubusercontent.com/NurbekFrontDev/NurbekFrontDev/output/github-snake.svg" />
 </picture>
 
+<h2>Socials:</h2>
+<p align="left"> 
+<a href="https://t.me/nurbekkDD" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="32" height="32" /> 
+</a> 
+<img width="12" />
+<a href="https://discord.com/users/teodor2762" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+</a> 
+<img width="12" />
+<a href="https://www.github.com/NurbekFrontDev" target="_blank" rel="noreferrer"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+</picture> 
+</a>
+</p>
+
 <h2 align="left">🛠 Technologies:</h2>
 
 ###
