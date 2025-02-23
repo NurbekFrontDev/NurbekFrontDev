@@ -28,11 +28,11 @@ I'm a beginner **Frontend Developer**, currently studying at **Technium Ivashev*
 
 <h2>Socials:</h2>
 <p align="left"> 
-<a href="https://t.me/nurbekkDD" target="_blank" rel="noreferrer"> 
+<a href="https://t.me/nurbekfrontdev" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="32" height="32" /> 
 </a> 
 <img width="12" />
-<a href="https://discord.com/users/teodor2762" target="_blank" rel="noreferrer"> 
+<a href="https://discord.com/users/nurbekfrontdev" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
 </a> 
 <img width="12" />
